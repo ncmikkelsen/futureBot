@@ -1,0 +1,14 @@
+{
+  "name": "botfromthefuture",
+  "version": "1.0.0",
+  "description": "posts design prompts for design fiction",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolaj Mikkelsen",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.3"
+  }
+}
